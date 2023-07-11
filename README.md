@@ -1,4 +1,4 @@
-ImageVision SDK 8 offiziell veröffentlicht!
+ImageVision SDK 10 offiziell veröffentlicht!
 
 Dieses SDK verfügt über eine Fülle von Bildverarbeitungs-Grundfunktionen und fortschrittlichen Bedienern, einschließlich, aber nicht beschränkt auf leistungsstarke Bildlese- und Speicherfunktionen, 2D-Codecodierung und -decodierung, Verifizierungscode-Generierung, Bildzuschnitt, Bildverschlüsselung, Bildkomprimierung, Kantenerkennung, morphologische Verarbeitung, Vorlagenabgleich, Feature-Erkennung und -Abgleich, Bildsteganographie, Bild-Spezialeffektfilter, Bildkalibrierung und -korrektur, Formensuche, Text- und Grafikwiedergabe, Eckerkennung Hough Transformation, Bildqualitätsbewertung, Zeichenerkennung, Kreis- und Linienerkennung, Bildzerstörung, Bildverbesserung, Bildwiederherstellung, Bildsegmentierung, Farbraumkonvertierung und Bildformatkonvertierung. Dieses SDK ist stabil und zuverlässig, mit starker Leistung, langer Probezeit und hoher Wirtschaftlichkeit. Es ist die beste Wahl, um Sie bei der Entwicklung von Bildverarbeitungsanwendungen schnell zu unterstützen.
 
